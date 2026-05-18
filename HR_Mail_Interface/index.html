@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>HR Interface</title>
+      <link rel="stylesheet" href="style.css">
+
+
+
+    <!-- ✅ Only font change (Poppins like the screenshot theme) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+    <div class="wrap">
+        <div class="card" id="askCard">
+            <div class="banner"></div>
+            <h2 class="name"><span class="name" id="who">Shivani</span>Please let me know whether I am <br> shortlisted for the position?
+            </h2>
+            <p class="sub">Choose wisely. (The “No” button is...<span> under reconsideration🥺</span> )</p>
+
+            <div class="row" id="playground">
+                <!-- ✅ DO NOT change yes-slot / no-slot structure -->
+                <div class="yes-slot" id="noSlot">
+                    <button class="yes" id="yesBtn">YES</button>
+                </div>
+
+                <div class="no-slot" id="noSlot">
+                    <button class="no" id="noBtn">NO</button>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="card hidden" id="yayCard">
+            <h2 class="yay">🥳  YAY!!! 💃</h2>
+            <p class="yayline">Best decision ever 🤩🚀</p>
+
+            <div class="gifbox">
+                <img alt="Celebration" src="C:\Users\DELL\OneDrive\Desktop\HR_Mail_Interface\Thank-you.gif" />
+            </div>
+
+            <div class="love">I’ll make sure your decision becomes the right one.❤️</div>
+            <div style="color: #ea4f82;">~Pranali Valve👩‍💻</div>
+            <div class="love" id="whoself"></div>
+
+        </div>
+    </div>
+
+    <div class="confetti hidden" id="confetti" aria-hidden="true"></div>
+      <script src="script.js"></script>
+
+
+</body>
+
+</html>

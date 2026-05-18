@@ -27,8 +27,9 @@ This project simulates a fun Gmail-style hiring interface with animations, respo
 
 ## 📸 Preview
 
-<img width="100%" alt="Project Preview" src="YOUR_SCREENSHOT_LINK_HERE">
-
+![Result1](Images/url.png)
+![Result2](Images/click.png)
+![Result3](Images/yesbutton.png)
 ---
 
 ## 🛠️ Project Structure
@@ -64,7 +65,7 @@ Interactive-Hiring-Mail-UI/
 
 Pranali Valve
 
-- GitHub: YOUR_GITHUB_LINK
+- GitHub: https://github.com/pranali-valve
 - LinkedIn: https://www.linkedin.com/in/pranali-valve-aa04b3382/
 
 ---

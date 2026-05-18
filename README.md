@@ -1,5 +1,7 @@
 # Interactive Hiring Mail UI 💌
 
+Check here: https://funny-interface.netlify.app/
+
 A creative and interactive frontend project built using HTML, CSS, and JavaScript.  
 This project simulates a fun Gmail-style hiring interface with animations, responsive design, tooltips, confetti effects, and dynamic button interactions.
 
@@ -39,14 +41,15 @@ Interactive-Hiring-Mail-UI/
 │
 ├── index.html
 ├── style.css
-└── script.js
+├── script.js
+└── Images
 ```
 
 ---
 
 ## 🌐 Live Demo
 
-[Click Here To View Project](YOUR_NETLIFY_LINK_HERE)
+[Click Here To View Project](https://funny-interface.netlify.app/)
 
 ---
 
